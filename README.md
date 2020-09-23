@@ -8,6 +8,7 @@ Search for movies in their database with image previews of their posters. Layout
 
 **Responsivity issues** 
 -Missing fonts and positioning
+-Account Page missing
 
 **Scripting Issues**
 Throughout the search the results accumulate commas which can be seen between movie posters. 
